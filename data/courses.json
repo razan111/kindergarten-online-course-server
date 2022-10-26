@@ -1,0 +1,107 @@
+[
+    {
+      "_id": "6358327041572725c38fb7fb",
+      "catagory_id": "01",
+      "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext' refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.",
+      "price": 132,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
+      "name": "HTML"
+    },
+    {
+      "_id": "6358327037a91ba062e02e00",
+      "catagory_id": "02",
+      "details": "The CSS box model is a container that contains multiple properties including borders, margin, padding, and the content itself. It is used to create the design and layout of web pages. It can be used as a toolkit for customizing the layout of different elements. The web browser renders every element as a rectangular box according to the CSS box model. Box-Model has multiple properties in CSS.",
+      "price": 197,
+      "img":"data:image/png;base64,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",
+     
+      "name": "CSS Box-Model"
+    },
+    {
+      "_id": "63583270b492b2f39b38c11d",
+      "catagory_id": "02",
+      "details": "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+      "price": 258,
+      "name": "CSS"
+    },
+    {
+      "_id": "635832709ed6a3791849ec8c",
+      "catagory_id": "03",
+      "details": "<ReferenceError: object is not defined>",
+      "img": "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
+      "price": 72,
+      "name": "JavaScript"
+    },
+    {
+      "_id": "6358327021c6b5c3cd2865e4",
+      "catagory_id": "04",
+      "details": "<ReferenceError: object is not defined>",
+      "price": 162,
+      "img":"https://cdn-icons-png.flaticon.com/512/5968/5968322.png",
+      "name": "Node Js"
+    },
+    {
+        "_id": "6358327021c6b5cycd2865e4",
+        "catagory_id": "04",
+        "details": "<ReferenceError: object is not defined>",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+        "price": 162,
+        "name": "Python Beganer"
+      },
+      {
+        "_id": "635832hd021c6b5cycd2865e4",
+        "catagory_id": "04",
+        "details": "<ReferenceError: object is not defined>",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+        "price": 162,
+        "name": "Python Advance"
+      },
+      {
+        "_id": "635styy327021c6b5cycd2865e4",
+        "catagory_id": "07",
+        "details": "<ReferenceError: object is not defined>",
+        "price": 162,
+        "img":"https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png",
+        "name": "PHP"
+      },
+      {
+        "_id": "6358327021c6b5cyretcd2865e4",
+        "catagory_id": "07",
+        "details": "<ReferenceError: object is not defined>",
+        "price": 162,
+        "img": "https://laravelnews.imgix.net/images/laravel-featured.png?ixlib=php-3.3.1",
+        "name": "Laravel "
+      },
+      {
+        "_id": "635styy327021c6b5cycd2865e4",
+        "catagory_id": "05",
+        "details": "C is a general-purpose programming language, developed in 1972, and still quite popular. C is very powerful; it has been used to develop operating systems, databases, applications, etc.",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png",
+        "price": 162,
+        "name": "C"
+      },
+      {
+        "_id": "635styy327021c6b5cycd2865e4",
+        "catagory_id": "06",
+        "details": "<ReferenceError: object is not defined>",
+        "img":"https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png",
+        "price": 162,
+        "name": "Java"
+      },
+      {
+        "_id": "635styy327021c6b5cycd2865e4",
+        "catagory_id": "06",
+        "details": "<ReferenceError: object is not defined>",
+        "price": 162,
+        "img":"https://www.freecodecamp.org/news/content/images/2020/02/OOP-IN-JS-1.png",
+        "name": "Java and Object Oriented Model"
+      },
+      {
+        "_id": "635styy327021c6b5cycd2865e4",
+        "catagory_id": "05",
+        "details": "C is a general-purpose programming language, developed in 1972, and still quite popular. C is very powerful; it has been used to develop operating systems, databases, applications, etc.",
+        "price": 162,
+        "img": "https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png",
+        "name": "C Basic"
+      }
+  ]
