@@ -27,7 +27,7 @@
     {
       "_id": "635832709ed6a3791849ec8c",
       "catagory_id": "03",
-      "details": "<ReferenceError: object is not defined>",
+      "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances. “Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem.”",
       "img": "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
       "price": 72,
       "name": "JavaScript"
@@ -35,7 +35,7 @@
     {
       "_id": "6358327021c6b5c3cd2865e4",
       "catagory_id": "04",
-      "details": "<ReferenceError: object is not defined>",
+      "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances. “Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem.”",
       "price": 162,
       "img":"https://cdn-icons-png.flaticon.com/512/5968/5968322.png",
       "name": "Node Js"
@@ -43,7 +43,7 @@
     {
         "_id": "6358327021c6b5cycd2865e4",
         "catagory_id": "04",
-        "details": "<ReferenceError: object is not defined>",
+        "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances. “Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem.”",
         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
         "price": 162,
         "name": "Python Beganer"
@@ -51,7 +51,7 @@
       {
         "_id": "635832hd021c6b5cycd2865e4",
         "catagory_id": "04",
-        "details": "<ReferenceError: object is not defined>",
+        "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances. “Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem.”",
         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
         "price": 162,
         "name": "Python Advance"
@@ -59,7 +59,7 @@
       {
         "_id": "635styy327021c6b5cycd2865e4",
         "catagory_id": "07",
-        "details": "<ReferenceError: object is not defined>",
+        "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances. “Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem.”",
         "price": 162,
         "img":"https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png",
         "name": "PHP"
@@ -67,7 +67,7 @@
       {
         "_id": "6358327021c6b5cyretcd2865e4",
         "catagory_id": "07",
-        "details": "<ReferenceError: object is not defined>",
+        "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances. “Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem.”",
         "price": 162,
         "img": "https://laravelnews.imgix.net/images/laravel-featured.png?ixlib=php-3.3.1",
         "name": "Laravel "
@@ -83,7 +83,7 @@
       {
         "_id": "635styy327021c6b5cycd2865e4",
         "catagory_id": "06",
-        "details": "<ReferenceError: object is not defined>",
+        "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances. “Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem.”",
         "img":"https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png",
         "price": 162,
         "name": "Java"
@@ -91,7 +91,7 @@
       {
         "_id": "635styy327021c6b5cycd2865e4",
         "catagory_id": "06",
-        "details": "<ReferenceError: object is not defined>",
+        "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances. “Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem.”",
         "price": 162,
         "img":"https://www.freecodecamp.org/news/content/images/2020/02/OOP-IN-JS-1.png",
         "name": "Java and Object Oriented Model"
